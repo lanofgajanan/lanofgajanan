@@ -29,18 +29,11 @@ Currently studying at Scaler School of Technology, CS branch, specializing in cy
 
 ### 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lanofgajanan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanofgajanan&layout=compact&theme=radical)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=lanofgajanan&show_icons=true&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=lanofgajanan&layout=compact&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lanofgajanan&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=lanofgajanan&theme=radical&no-frame=true&row=1&column=6)
-
----
-
-### 🐍 Contribution snake
-
-<!-- This one needs a one-time setup step — see note below -->
-![Snake animation](https://raw.githubusercontent.com/lanofgajanan/lanofgajanan/output/github-contribution-grid-snake.svg)
+![Trophies](https://github-profile-trophy-orcin-eta.vercel.app/?username=lanofgajanan&theme=radical&no-frame=true&row=1&column=6)
 
 ---
 
