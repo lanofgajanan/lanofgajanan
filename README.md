@@ -41,3 +41,4 @@ Currently studying at Scaler School of Technology, CS branch, specializing in cy
 
 - ✉️ Email: [lanofgajanan@gmail.com](mailto:lanofgajanan@gmail.com)
 - 📸 Instagram: [@wanofgajanan](https://instagram.com/wanofgajanan)
+- 💻Website : [LanOfGajanan](lanofgajanan.pp.ua)
