@@ -4,7 +4,11 @@
 
 🔗 **[Portfolio](https://lanofgajanan.pp.ua)**
 
+<br/>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Cybersecurity+%40+Scaler+School+of+Technology;Forging+Ab+Kya%3F+-+a+narrative+FPS;Self-hosting+everything+I+can;Privacy-first%2C+always)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lanofgajanan&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -12,31 +16,48 @@
 
 <br/>
 
+---
+
+<div align="center">
+
 ## ⚔️ Of Who I Am
+
+</div>
 
 I study Computer Science at Scaler School of Technology, with my chief focus set upon **cybersecurity**.
 
 Yet I have little interest in merely following roads already paved. I would rather **forge the things I wish to see exist** — a narrative game, systems I run and control myself, and strange experiments born of curiosity — than spend my days treading through another tutorial.
 
-- 🔐 **Cybersecurity** — studied in earnest, practised by choice.
-- 🎮 **Indie game development** — presently forging **Ab Kya?**, a narrative FPS set in modern India.
-- 🖥️ **Self-hosting** — if it holdeth my data, I would rather it answer to me alone.
-- ⛏️ **Minecraft modding & infrastructure** — building and maintaining modded servers and their infrastructure.
-- ⚛️ **Web development** — employing React where it serveth the purpose, whilst keeping faith with the fundamentals beneath the framework.
+<div align="center">
 
-<br/>
+| 🔐 | 🎮 | 🖥️ | ⛏️ | ⚛️ |
+|:---:|:---:|:---:|:---:|:---:|
+| **Cybersecurity** | **Indie Game Dev** | **Self-Hosting** | **Minecraft** | **Web Development** |
+| Studied in earnest, practised by choice | Forging **Ab Kya?** | Running what I can myself | Modding & infrastructure | Employing React where it serveth |
 
-> ⚔️ *The medallion's humming.*
+</div>
 
 <br/>
 
 <div align="center">
 
-### 🚧 What I Am Building
+> ⚔️ *The medallion's humming.*
 
 </div>
 
-**🎮 Ab Kya?**
+<br/>
+
+---
+
+<div align="center">
+
+## 🚧 What I Am Building
+
+</div>
+
+<br/>
+
+### 🎮 Ab Kya?
 
 A story concerning trust, uncertainty, and the peril of believing thou knowest another person completely.
 
@@ -50,16 +71,18 @@ Its consequences reveal themselves only in hindsight — when the truth hath alr
 
 <br/>
 
-**📱 [WellCheck](https://github.com/lanofgajanan/WellCheck)**
+---
+
+### 📱 [WellCheck](https://github.com/lanofgajanan/WellCheck)
 
 A real-time safety system for elderly users and their volunteers, built to provide aid when it mattereth most.
 
 It provideth:
 
-- SOS alerts
-- Medicine reminders
-- Check-in monitoring
-- Escalation workflows
+- 🚨 SOS alerts
+- 💊 Medicine reminders
+- 🕐 Check-in monitoring
+- 📡 Escalation workflows
 
 Built with **React Native** and **Firebase**, taking the project from naught to a working demonstration within a single **12-hour hackathon**.
 
@@ -67,7 +90,9 @@ Built with **React Native** and **Firebase**, taking the project from naught to 
 
 <br/>
 
-**💻 [NOVA Landing Page](https://github.com/lanofgajanan/SimpleSampleWebsite)**
+---
+
+### 💻 [NOVA Landing Page](https://github.com/lanofgajanan/SimpleSampleWebsite)
 
 A responsive, terminal-inspired landing page for a fictional agentic coding tool.
 
@@ -87,23 +112,27 @@ Sometimes it is useful to prove that the framework is not the reason the page wo
 
 <br/>
 
-**🛡️ [Aegis](https://lanofgajanan.pp.ua/#aegis)**
+---
+
+### 🛡️ [Aegis](https://lanofgajanan.pp.ua/#aegis)
 
 A pre-configured mini PC built to return unto its owner control of their own data.
 
 Aegis bringeth together:
 
-- Private DNS
-- Network-wide ad blocking
-- Personal cloud storage
-- Secure remote access
-- A custom Linux distribution made for the device
+- 🔒 Private DNS
+- 🚫 Network-wide ad blocking
+- ☁️ Personal cloud storage
+- 🌐 Secure remote access
+- 🐧 A custom Linux distribution made for the device
 
 **Built with:** `Linux` · `Docker` · `Networking` · `Self-hosting`
 
 <br/>
 
-**🌐 [Personal Portfolio](https://lanofgajanan.pp.ua)**
+---
+
+### 🌐 [Personal Portfolio](https://lanofgajanan.pp.ua)
 
 My personal portfolio, presently being forged with **React**.
 
@@ -113,67 +142,126 @@ It remaineth under construction, but already hath a home.
 
 <br/>
 
+---
+
 <div align="center">
 
-### ⚔️ The Instruments I Wield
+## ⚔️ The Instruments I Wield
+
+<br/>
 
 <a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 </a>
+&nbsp;
 <a href="https://isocpp.org/">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111"/>
 </a>
+&nbsp;
 <a href="https://react.dev/">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
+
+<br/><br/>
+
 <a href="https://unity.com/">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF"/>
 </a>
+&nbsp;
 <a href="https://www.docker.com/">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linux.org/">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111"/>
 </a>
+&nbsp;
 <a href="https://git-scm.com/">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.gnu.org/software/bash/">
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </a>
 
 </div>
 
-<br/><br/>
+<br/>
 
-### 📊 The Chronicle
+---
 
-<img src="https://github-stats-extended.vercel.app/api?username=lanofgajanan&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lanofgajanan&theme=radical&hide_border=true" height="165"/>
+<div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lanofgajanan&layout=compact&theme=radical&hide_border=true" height="165"/>
+## 📜 The Chronicle
+
+<br/>
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-stats-extended.vercel.app/api?username=lanofgajanan&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+
+</td>
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lanofgajanan&theme=radical&hide_border=true" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lanofgajanan&layout=compact&theme=radical&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=lanofgajanan&theme=radical&no-frame=true&row=1&column=6" />
 
 <br/><br/>
 
+</div>
+
+---
+
+<div align="center">
+
 > *“No matter how ridiculous the odds may seem, within us resides the power to overcome these challenges and achieve something beautiful.”*
 >
 > — **Technoblade**
 
+<br/>
+
+## 📫 Send Word
+
+<br/>
+
+<a href="mailto:lanofgajanan@gmail.com">
+<img src="https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/wanofgajanan">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://lanofgajanan.pp.ua">
+<img src="https://img.shields.io/badge/Website-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 <br/><br/>
-
-### 📫 Send Word
-
-<a href="mailto:lanofgajanan@gmail.com"><img src="https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/wanofgajanan"><img src="https://img.shields.io/badge/Instagram-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://lanofgajanan.pp.ua"><img src="https://img.shields.io/badge/Website-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
