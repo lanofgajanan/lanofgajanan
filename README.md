@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:5A189A&height=180&section=header&text=Hail,%20I'm%20Gajanan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Game%20Dev%20%7C%20Self-Hoster&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:5A189A&height=180&section=header&text=Greetings,%20I'm%20Gajanan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Game%20Dev%20%7C%20Self-Hoster&descAlignY=58&descSize=18" width="100%"/>
 
 🔗 **[Portfolio](https://lanofgajanan.pp.ua)**
 
