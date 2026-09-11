@@ -115,18 +115,40 @@ It remaineth under construction, but already hath a home.
 
 <div align="center">
 
-### 🛠️ The Instruments I Wield
+### ⚔️ The Instruments I Wield
 
-![Python](https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-9D4EDD?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-9D4EDD?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-9D4EDD?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-9D4EDD?style=for-the-badge&logo=react&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-9D4EDD?style=for-the-badge&logo=unity&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-9D4EDD?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-9D4EDD?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-9D4EDD?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-9D4EDD?style=for-the-badge&logo=gnubash&logoColor=white)
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+</a>
+<a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" />
+</a>
+<a href="https://react.dev/">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</a>
+<a href="https://unity.com/">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+<a href="https://www.linux.org/">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" />
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<a href="https://www.gnu.org/software/bash/">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+</a>
+
+</div>
 
 <br/><br/>
 
