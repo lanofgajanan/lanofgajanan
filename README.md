@@ -57,9 +57,11 @@ Yet I have little interest in merely following roads already paved. I would rath
 
 <br/>
 
+<div align="center">
+
 ### 🎮 Ab Kya?
 
-A story concerning trust, uncertainty, and the peril of believing thou knowest another person completely.
+*A story concerning trust, uncertainty, and the peril of believing thou knowest another person completely.*
 
 **Ab Kya?** is a narrative FPS set in modern India, told through an ensemble cast with no loading screens to declare whose eyes thou art seeing through.
 
@@ -69,76 +71,92 @@ Its consequences reveal themselves only in hindsight — when the truth hath alr
 
 **Built with:** `Unity` · `C#` · `Narrative Design`
 
+</div>
+
 <br/>
 
 ---
 
+<div align="center">
+
 ### 📱 [WellCheck](https://github.com/lanofgajanan/WellCheck)
 
-A real-time safety system for elderly users and their volunteers, built to provide aid when it mattereth most.
+*A real-time safety system for elderly users and their volunteers, built to provide aid when it mattereth most.*
 
 It provideth:
 
-- 🚨 SOS alerts
-- 💊 Medicine reminders
-- 🕐 Check-in monitoring
-- 📡 Escalation workflows
+🚨 **SOS alerts**  
+💊 **Medicine reminders**  
+🕐 **Check-in monitoring**  
+📡 **Escalation workflows**
 
 Built with **React Native** and **Firebase**, taking the project from naught to a working demonstration within a single **12-hour hackathon**.
 
 **Built with:** `React Native` · `Firebase`
 
+</div>
+
 <br/>
 
 ---
+
+<div align="center">
 
 ### 💻 [NOVA Landing Page](https://github.com/lanofgajanan/SimpleSampleWebsite)
 
-A responsive, terminal-inspired landing page for a fictional agentic coding tool.
+*A responsive, terminal-inspired landing page for a fictional agentic coding tool.*
 
 It employeth:
 
-- A dark terminal-inspired aesthetic
-- Monospace typography
-- Scroll reveals
-- Animated count-up statistics
-- Responsive layouts
+🖥️ **A dark terminal-inspired aesthetic**  
+⌨️ **Monospace typography**  
+✨ **Scroll reveals**  
+📊 **Animated count-up statistics**  
+📱 **Responsive layouts**
 
-Forged using:
+**Forged using:** `HTML` · `CSS` · `JavaScript`
 
-`HTML` · `CSS` · `JavaScript`
+*Sometimes it is useful to prove that the framework is not the reason the page worketh.*
 
-Sometimes it is useful to prove that the framework is not the reason the page worketh.
+</div>
 
 <br/>
 
 ---
+
+<div align="center">
 
 ### 🛡️ [Aegis](https://lanofgajanan.pp.ua/#aegis)
 
-A pre-configured mini PC built to return unto its owner control of their own data.
+*A pre-configured mini PC built to return unto its owner control of their own data.*
 
 Aegis bringeth together:
 
-- 🔒 Private DNS
-- 🚫 Network-wide ad blocking
-- ☁️ Personal cloud storage
-- 🌐 Secure remote access
-- 🐧 A custom Linux distribution made for the device
+🔒 **Private DNS**  
+🚫 **Network-wide ad blocking**  
+☁️ **Personal cloud storage**  
+🌐 **Secure remote access**  
+🐧 **A custom Linux distribution made for the device**
 
 **Built with:** `Linux` · `Docker` · `Networking` · `Self-hosting`
+
+</div>
 
 <br/>
 
 ---
 
+<div align="center">
+
 ### 🌐 [Personal Portfolio](https://lanofgajanan.pp.ua)
 
-My personal portfolio, presently being forged with **React**.
+*My personal portfolio, presently being forged with **React**.*
 
 It remaineth under construction, but already hath a home.
 
 **Built with:** `React` · `JavaScript` · `Web Development`
+
+</div>
 
 <br/>
 
