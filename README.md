@@ -12,12 +12,12 @@
 
 <br/>
 
-Currently studying at Scaler School of Technology, CS branch, specializing in cybersecurity. I build things I actually want to exist — a narrative game, a self-hosted homelab — rather than tutorial projects.
+Reading Computer Science at Scaler School of Technology, with a focus on cybersecurity. I'd rather build the things I actually want to exist — a narrative game, systems I run and control myself — than work through another tutorial.
 
-- 🔐 Focused on cybersecurity within CS
-- 🎮 Indie game dev — currently writing/building **Ab Kya?**, a narrative FPS set in modern India
-- 🖥️ Privacy-first, self-hosting-oriented builder — don't trust companies with my data
-- ⛏️ Minecraft modder & modpack dev — run modded servers (NeoForge, Velocity proxy)
+- 🔐 Cybersecurity, studied in earnest, practiced by choice
+- 🎮 Indie developer, presently at work on **Ab Kya?**, a narrative FPS set in modern India
+- 🖥️ A self-hosting purist at heart — if it holds my data, I'd rather it answer to no one but me
+- ⛏️ Minecraft modder and server architect, running modded infrastructure of my own design
 
 <br/>
 
@@ -28,22 +28,22 @@ Currently studying at Scaler School of Technology, CS branch, specializing in cy
 </div>
 
 **🎮 Ab Kya?**
-A story about trusting someone completely without ever verifying what you actually know about them. Told through an ensemble cast, no loading-screen POV shifts, and consequences that only make sense in hindsight.
+A story about trusting someone completely, without ever pausing to verify what you actually know of them. Told through an ensemble cast with no loading screens to mark whose eyes you're seeing through, its consequences only reveal themselves in hindsight.
 
 <br/>
 
 **📱 [WellCheck](https://github.com/lanofgajanan/WellCheck)**
-A React Native (Expo) app for real-time safety monitoring between elderly users and volunteers — SOS alerts, medicine reminders, and check-in escalation backed by Firebase. Built from scratch to a working demo in a 12-hour hackathon.
+Real-time safety monitoring for elderly users and their volunteers — SOS alerts, medicine reminders, and check-in escalation, built on React Native and Firebase. Taken from nothing to a working demo inside a single 12-hour hackathon.
 
 <br/>
 
 **💻 [NOVA Landing Page](https://github.com/lanofgajanan/SimpleSampleWebsite)**
-A responsive, terminal-inspired landing page for a fictional agentic AI coding tool — dark terminal palette, monospace headings, scroll reveals, and count-up stats, built dependency-free in vanilla HTML/CSS/JS.
+A responsive, terminal-inspired landing page for a fictional agentic coding tool — dark palette, monospace type, scroll reveals, and count-up stats, composed entirely in dependency-free HTML, CSS, and JavaScript.
 
 <br/>
 
 **🛡️ [Aegis](https://lanofgajanan.pp.ua/#aegis)**
-A pre-configured mini PC product providing private DNS/ad-blocking, personal cloud storage, and secure remote access — powered by a custom Linux distro built for the device.
+A pre-configured mini PC, built to hand its owner back their privacy — private DNS, ad-blocking, personal cloud storage, and secure remote access, all running on a custom Linux distribution made for the device.
 
 <br/>
 
@@ -51,7 +51,13 @@ A pre-configured mini PC product providing private DNS/ad-blocking, personal clo
 
 ### 🛠️ Tech I reach for
 
-<img src="https://skillicons.dev/icons?i=py,cpp,unity,docker,linux,git,bash&theme=dark" />
+![Python](https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-9D4EDD?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-9D4EDD?style=for-the-badge&logo=unity&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-9D4EDD?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-9D4EDD?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-9D4EDD?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-9D4EDD?style=for-the-badge&logo=gnubash&logoColor=white)
 
 <br/><br/>
 
