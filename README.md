@@ -1,5 +1,7 @@
 # Hey, I'm Raghav 👋
 
+🔗 **[Portfolio](https://lanofgajanan.pp.ua)**
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Cybersecurity+%40+Scaler+School+of+Technology;Building+Ab+Kya%3F+-+a+narrative+FPS;Self-hosting+everything+I+can;Privacy-first%2C+always)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lanofgajanan&color=blueviolet&style=flat)
@@ -41,4 +43,4 @@ Currently studying at Scaler School of Technology, CS branch, specializing in cy
 
 - ✉️ Email: [lanofgajanan@gmail.com](mailto:lanofgajanan@gmail.com)
 - 📸 Instagram: [@wanofgajanan](https://instagram.com/wanofgajanan)
-- 💻Website : [LanOfGajanan](lanofgajanan.pp.ua)
+- 💻 Website: [LanOfGajanan](https://lanofgajanan.pp.ua)
