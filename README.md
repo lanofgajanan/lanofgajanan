@@ -16,7 +16,7 @@ Currently studying at Scaler School of Technology, CS branch, specializing in cy
 
 - 🔐 Focused on cybersecurity within CS
 - 🎮 Indie game dev — currently writing/building **Ab Kya?**, a narrative FPS set in modern India
-- 🖥️ Run a self-hosted homelab (VPN, ad-blocking DNS, Minecraft infra, a self-hosted AI assistant) — privacy-first, don't trust companies with my data
+- 🖥️ Privacy-first, self-hosting-oriented builder — don't trust companies with my data
 - ⛏️ Minecraft modder & modpack dev — run modded servers (NeoForge, Velocity proxy)
 
 <br/>
@@ -27,24 +27,23 @@ Currently studying at Scaler School of Technology, CS branch, specializing in cy
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎮 [Ab Kya?](#)**
-
+**🎮 Ab Kya?**
 A story about trusting someone completely without ever verifying what you actually know about them. Told through an ensemble cast, no loading-screen POV shifts, and consequences that only make sense in hindsight.
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-**🖥️ Homelab / Self-hosted stack**
+**📱 [WellCheck](https://github.com/lanofgajanan/WellCheck)**
+A React Native (Expo) app for real-time safety monitoring between elderly users and volunteers — SOS alerts, medicine reminders, and check-in escalation backed by Firebase. Built from scratch to a working demo in a 12-hour hackathon.
 
-WireGuard + Tailscale VPN, AdGuard Home DNS filtering, CasaOS + Crafty Controller managing modded Minecraft servers, and Odysseus — a self-hosted AI assistant with custom MCP tooling.
+<br/>
 
-</td>
-</tr>
-</table>
+**💻 [NOVA Landing Page](https://github.com/lanofgajanan/SimpleSampleWebsite)**
+A responsive, terminal-inspired landing page for a fictional agentic AI coding tool — dark terminal palette, monospace headings, scroll reveals, and count-up stats, built dependency-free in vanilla HTML/CSS/JS.
+
+<br/>
+
+**🛡️ [Aegis](https://lanofgajanan.pp.ua/#aegis)**
+A pre-configured mini PC product providing private DNS/ad-blocking, personal cloud storage, and secure remote access — powered by a custom Linux distro built for the device.
 
 <br/>
 
