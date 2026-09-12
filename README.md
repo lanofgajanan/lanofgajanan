@@ -7,7 +7,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Cybersecurity+%40+Scaler+School+of+Technology;Forging+Ab+Kya%3F+-+a+narrative+FPS;Self-hosting+everything+I+can;Privacy-first%2C+always)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=%5BACCESS%5D+Cybersecurity+%40+Scaler+School+of+Technology;%5BPROJECT%5D+Ab+Kya%3F+-+Narrative+FPS;%5BSYSTEM%5D+Self-hosted+infrastructure+online;%5BPRIORITY%5D+Privacy+over+convenience;%5BWARNING%5D+The+medallion%27s+humming...)
 
 <br/>
 
