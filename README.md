@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF06B5,100:00BFFF&height=180&section=header&text=Greetings,%20I'm%20Gajanan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Game%20Dev%20%7C%20Self-Hoster&descAlignY=58&descSize=18" width="100%"/>
+<-- Did u came here thing aboout the Cyberpunk Statue Mystry color FF06B5? -->
 
 🔗 **[Portfolio](https://lanofgajanan.pp.ua)**
 
