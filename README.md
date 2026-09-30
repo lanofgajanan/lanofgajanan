@@ -103,21 +103,21 @@ Built with **React Native** and **Firebase**, taking the project from naught to 
 
 <div align="center">
 
-### 💻 [NOVA Landing Page](https://github.com/lanofgajanan/SimpleSampleWebsite)
+### 🌆 [Cyberspace](https://github.com/lanofgajanan/Cyberspace)
 
-*A responsive, terminal-inspired landing page for a fictional agentic coding tool.*
+*An attempt to render the Net — the cyberspace of Cyberpunk 2077 — as an explorable 3D city.*
 
-It employeth:
+It bringeth forth:
 
-🖥️ **A dark terminal-inspired aesthetic**  
-⌨️ **Monospace typography**  
-✨ **Scroll reveals**  
-📊 **Animated count-up statistics**  
-📱 **Responsive layouts**
+🏙️ **A procedurally generated city**, wrought anew with every visit  
+🖤 **Solid, opaque geometry** — no true wireframe, only glowing edges upon the dark  
+🛣️ **Roads that wind and branch**, not a rigid grid alone  
+🏥 **Hospitals, parks, and towers**, scaled by their nearness to downtown  
+⚡ **A single instanced mesh** carrying every building, for speed upon lesser machines
 
-**Forged using:** `HTML` · `CSS` · `JavaScript`
+**Forged using:** `Three.js` · `JavaScript` · `WebGL`
 
-*Sometimes it is useful to prove that the framework is not the reason the page worketh.*
+🔗 **[Explore it live](https://lanofgajanan.github.io/Cyberspace/)**
 
 </div>
 
@@ -258,7 +258,7 @@ It remaineth under construction, but already hath a home.
 
 <div align="center">
 
-> *“No matter how ridiculous the odds may seem, within us resides the power to overcome these challenges and achieve something beautiful.”*
+> *"No matter how ridiculous the odds may seem, within us resides the power to overcome these challenges and achieve something beautiful."*
 >
 > — **Technoblade**
 
