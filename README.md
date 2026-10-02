@@ -272,10 +272,6 @@ It remaineth under construction, but already hath a home.
 <img src="https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/wanofgajanan">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 <a href="https://lanofgajanan.pp.ua">
 <img src="https://img.shields.io/badge/Website-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
